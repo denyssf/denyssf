@@ -16,7 +16,7 @@ Estou desenvolvendo projetos e praticando lógica com:
   **Python** - Automação, scripts e ciência de dados básica.
   <br><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  **JavaScript** - Desenvolvimento Web e interatividade.
+  **JavaScript/Typescript** - Desenvolvimento Web e interatividade.
 </div>
 
 ## 🧩 Outros Conhecimentos
@@ -24,6 +24,7 @@ Estou desenvolvendo projetos e praticando lógica com:
 Além da base principal, gosto de explorar frameworks e ferramentas essenciais:
 
 * 💎 **Ruby on Rails:** Tenho noções básicas e já criei pequenos projetos para entender a arquitetura MVC.
+* 🗻 **Prisma Schema Language:** Tenho noções básicas e já criei pequenos projetos utilizando como estrutura de banco de dados.
 * 🛠️ **Ferramentas:** Git, GitHub, VS Code.
 * 🗄️ **Banco de Dados:** SQL Básico.
 
